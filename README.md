@@ -1,5 +1,5 @@
 # Java EE 7 Samples #
-# Ê¾Àı³ÌĞò
+# æµ‹è¯•ç¨‹åº æ”¹å˜ç¼–ç 
 
 This workspace consists of Java EE 7 Samples and unit tests. They are categorized in different directories, one for each Technology/JSR.
 
