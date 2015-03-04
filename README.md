@@ -1,5 +1,4 @@
 # Java EE 7 Samples #
-# 测试程序 改变编码
 
 This workspace consists of Java EE 7 Samples and unit tests. They are categorized in different directories, one for each Technology/JSR.
 
